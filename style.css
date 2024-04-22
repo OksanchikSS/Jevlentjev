@@ -137,6 +137,7 @@ main>section>article>div>img{
     justify-content:center;
     align-items: center;
     display: flex;
+    position: relative;
     background: url(images/top-view-of-desk-concept-with-copy-space_23-2148459745.jpg);
     background-size: contain;
     background-repeat: no-repeat;
@@ -145,7 +146,6 @@ main>section>article>div>img{
 .Oksana1>span{
     top: 350px;
     text-align: center;
-    position: absolute;
     left: 23%;
     z-index: 1;
 }
@@ -166,13 +166,13 @@ main>section>article>div>img{
     justify-content:center;
     align-items: start;
     display: flex;
+    position: relative;
     background: url(images/1d7c3a7a-e-mail-aerial-afternoon-tea-background.jpg);
     background-size: cover;
 }
 .Oksana>span{
     top: 200px;
     text-align:start;
-    position: absolute;
     left: 15%;
     z-index: 1;
 }
